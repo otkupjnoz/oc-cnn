@@ -1,0 +1,1 @@
+python main.py --dataset abnormal --lr 1e-4 --gpu_flag True --verbose True --default False --method OC_CNN --N 0.5 --gamma 1/4096.0 --pre_trained_flag True --iterations 200 --sigma 0.01 --model_mode train --model_type alexnet --classifier_type OC_CNN --class_number 1
