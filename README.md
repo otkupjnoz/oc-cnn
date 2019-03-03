@@ -1,2 +1,2 @@
-Code coming soon
+README will be updated later
 
